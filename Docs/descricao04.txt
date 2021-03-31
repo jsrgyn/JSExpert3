@@ -1,0 +1,35 @@
+Inscreva-se para receber os próximos videos em: https://bit.ly/semana-jsexpert30-ot​ e deixe um star no projeto http://bit.ly/code-semanajsexpert30​
+
+Sejam muito bem vindos a #SemanaJSExpert​ 3.0
+
+Nessa aula você vai aprender a transformar um arquivo JavaScript em um executável e receber mensagens do chat em diferentes salas.
+
+Vai conhecer comandos NPM utilitários para criar seu próprio comando global.
+
+Além disso, você vai publicar o programa de linha de comando no NPM Registry para que todos no mundo possam baixar e testar seu programa.
+
+Vai também publicar o seu servidor Web Socket no Heroku para que qualquer pessoa no mundo possa estabilizar um chat seguro entre seu programa de linha de comando e seu servidor.
+
+✅  PRÉ REQUISITOS
+
+▸ Node.js 15: https://nodejs.org/en/download/​
+▸ Conta na NPM: https://www.npmjs.com/​
+▸ Conta na Heroku: http://heroku.com/​
+
+✅  CÓDIGO FONTE RESULTADO DAS AULAS
+
+▸ Deixe um star no projeto 🔥 : http://bit.ly/code-semanajsexpert30​
+
+✅  LINKS CITADOS NO VÍDEO
+
+▸ Canal no telegram: http://bit.ly/telegram-jsweek​
+▸ Grupo VIP no Telegram sobre o Treinamento JS Expert: https://t.me/joinchat/pkRxqSNjwUI3ZWZh​
+
+✅  SIGA-ME NAS REDES SOCIAIS
+
+▸ Linkedin: https://linkedin.com/in/erickwendel​
+▸ Blog: https://erickwendel.com.br/​
+▸ Facebook: https://fb.com/page.erickwendel​
+▸ Medium: https://medium.com/@erickwendel​
+▸ Cursos: http://cursos.erickwendel.com.br/​
+▸ Twitter: https://twitter.com/erickwendel_

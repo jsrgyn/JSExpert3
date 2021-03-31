@@ -1,0 +1,32 @@
+https://github.com/ErickWendel/semana-js-expert30
+
+Inscreva-se para receber os próximos videos em: https://bit.ly/semana-jsexpert30-ot​ e deixe um star no projeto http://bit.ly/code-semanajsexpert30​
+
+Sejam muito bem vindos a #SemanaJSExpert​ 3.0
+
+Nessa aula você vai construir a estrutura inicial do nosso programa de linha de comando além de configurar toda a interface do programa usando o pacote Blessed e o design pattern Builder.
+
+Vai aprender a trabalhar com o módulo nativo do Node.js para emissão de eventos customizados e definir quais eventos sua interface deverá respeitar.
+
+Você também vai trabalhar com emissores de evento para estabilizar a comunicação entre componentes e regras de negócio.
+
+✅  PRÉ REQUISITOS
+
+▸ Node.js 15: https://nodejs.org/en/download/​
+
+✅  CÓDIGO FONTE RESULTADO DAS AULAS
+
+▸ Deixe um star no projeto 🔥 : http://bit.ly/code-semanajsexpert30​
+
+✅  LINKS CITADOS NO VÍDEO
+
+▸ Canal no telegram: http://bit.ly/telegram-jsweek​
+
+✅  SIGA-ME NAS REDES SOCIAIS
+
+▸ Linkedin: https://linkedin.com/in/erickwendel​
+▸ Blog: https://erickwendel.com.br/​
+▸ Facebook: https://fb.com/page.erickwendel​
+▸ Medium: https://medium.com/@erickwendel​
+▸ Cursos: http://cursos.erickwendel.com.br/​
+▸ Twitter: https://twitter.com/erickwendel_

@@ -1,0 +1,33 @@
+https://github.com/ErickWendel/semana-js-expert30
+
+Inscreva-se para receber os próximos videos em: https://bit.ly/semana-jsexpert30-ot​ e deixe um star no projeto http://bit.ly/code-semanajsexpert30​
+
+Sejam muito bem vindos a #SemanaJSExpert​ 3.0
+
+Nessa aula você vai fazer o link de eventos entre o programa de linha de comando e o servidor Web Socket. 
+
+Vai obter eventos de clientes que acabaram de entrar na sala de bate-papo, clientes que saíram e principalmente registrar cada um destes eventos.
+
+Além de receber todos estes eventos, vai também estabilizar a conexão entre multiusuários no chat entre diferentes salas para diferentes usuários.
+
+
+✅  PRÉ REQUISITOS
+
+▸ Node.js 15: https://nodejs.org/en/download/​
+
+✅  CÓDIGO FONTE RESULTADO DAS AULAS
+
+▸ Deixe um star no projeto 🔥 : http://bit.ly/code-semanajsexpert30​
+
+✅  LINKS CITADOS NO VÍDEO
+
+▸ Canal no telegram: http://bit.ly/telegram-jsweek​
+
+✅  SIGA-ME NAS REDES SOCIAIS
+
+▸ Linkedin: https://linkedin.com/in/erickwendel​
+▸ Blog: https://erickwendel.com.br/​
+▸ Facebook: https://fb.com/page.erickwendel​
+▸ Medium: https://medium.com/@erickwendel​
+▸ Cursos: http://cursos.erickwendel.com.br/​
+▸ Twitter: https://twitter.com/erickwendel_

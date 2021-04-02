@@ -23,8 +23,6 @@ npm start
 https://www.npmjs.com/package/blessed
 npm install blessed
 
-Parando com 37 min.
-
 ================================================================================
 
 Dia 23/03/2021

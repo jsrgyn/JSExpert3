@@ -26,12 +26,37 @@ npm install blessed
 ================================================================================
 
 Dia 23/03/2021
-#1 - Estruturando o seu projeto Zoom:
-3 Design Patterns que você precisa conhecer -
+#2 - Trabalhando com Sockets HTTP 
+e Arquitetura Orientada a Eventos
 #SemanaJSExpert3
 
 ---
 
+Protocolo TCP = Transmition Control Protocol ou Protocolo  de Controle de Transmissão
+Requisição HTTP = Roda dentro da camada Suíte TCP/IP
+*Criar um loop infinito no cliente* é tecnica de HTTP Polling e que tem custo grande e causa uma sobrecarga no servidor.
+Uma forma de fazer um *Upgrade na conexão*
+O protocolo raiz da cominicação dentro da internert é *Protocolo Web Socket*
+O web socket usa o HTTP Upgrade Header
 
+
+npm ci
+node index.js
+node index.js \
+    --username erickwendel \
+    --room sala01 \
+    --hostUri localhost
+
+npm run user01
+
+"Server"
+npm init -y
+npm i uuid
+mkdir src
+
+npm i -D nodemon
+npm run dev
+curl localhost:9898
+npm run user01
 
 ================================================================================

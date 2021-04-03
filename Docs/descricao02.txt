@@ -1,0 +1,34 @@
+https://github.com/ErickWendel/semana-js-expert30
+
+Inscreva-se para receber os próximos videos em: https://bit.ly/semana-jsexpert30-ot​ e deixe um star no projeto http://bit.ly/code-semanajsexpert30​
+
+Sejam muito bem vindos a #SemanaJSExpert​ 3.0
+
+Nessa aula você vai aprender a trabalhar com Web Sockets usando apenas o módulo nativo do Node.js.
+
+Vai também criar a estrutura de cliente e servidor usando emissores de eventos customizados além de criar a função para obter os comandos digitados no terminal.
+
+✅  PRÉ REQUISITOS
+
+▸ Node.js 15: https://nodejs.org/en/download/​
+
+✅  CÓDIGO FONTE RESULTADO DAS AULAS
+
+▸ Deixe um star no projeto 🔥 : http://bit.ly/code-semanajsexpert30​
+
+✅  LINKS CITADOS NO VÍDEO
+
+▸ Canal no telegram: http://bit.ly/telegram-jsweek​
+▸ https://en.wikipedia.org/wiki/Transmi...​
+▸ https://en.wikipedia.org/wiki/WebSocket​
+▸ https://en.wikipedia.org/wiki/HTTP/1....​
+
+
+✅  SIGA-ME NAS REDES SOCIAIS
+
+▸ Linkedin: https://linkedin.com/in/erickwendel​
+▸ Blog: https://erickwendel.com.br/​
+▸ Facebook: https://fb.com/page.erickwendel​
+▸ Medium: https://medium.com/@erickwendel​
+▸ Cursos: http://cursos.erickwendel.com.br/​
+▸ Twitter: https://twitter.com/erickwendel_​

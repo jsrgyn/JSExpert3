@@ -60,3 +60,18 @@ curl localhost:9898
 npm run user01
 
 ================================================================================
+
+Dia 24/03/2021
+#3 - Broadcast de mensagens, recebendo dados de atividade 
+e usuários online em tempo real
+#SemanaJSExpert3
+
+---
+
+rm -rf hacker-chat-aula02/**/node_modules
+npm ci --silent
+npm run dev
+npm run user01
+
+Parando com 28 min
+================================================================================
